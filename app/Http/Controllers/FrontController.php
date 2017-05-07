@@ -39,4 +39,14 @@ class FrontController extends Controller
         return view('front.offer');
     }
 
+
+
+
+
+
+
+
+
+    
+
 }
